@@ -1,1 +1,1 @@
-# Repositório com os exemplos citados em meu artigo escrito na plataforma Medium disponível no seguinte endereço: https://medium.com/@Tulio.Araujoo/colis%C3%B5es-em-tabelas-hash-no-%C3%A2mbito-de-seguran%C3%A7a-da-informa%C3%A7%C3%A3o-6d296164a4bd   
+# Repositório com os exemplos citados em meu artigo escrito na plataforma Medium disponível no endereço: https://medium.com/@Tulio.Araujoo/colis%C3%B5es-em-tabelas-hash-no-%C3%A2mbito-de-seguran%C3%A7a-da-informa%C3%A7%C3%A3o-6d296164a4bd   
